@@ -18,5 +18,7 @@ Some sort of mirror software is needed. For Android, `scrcpy` can be used and fo
 - `python3 automation.py`
 - Follow instructions
 
+You may need to adjust some variables for this to work. Only tested on Windows 10 with Wormhole and iPad Pro 10.5 inch.
+
 ## NEET
 It might be fun to train an AI to learn how to play fruit ninja but it is not easy. Might be something to do when I am bored.
