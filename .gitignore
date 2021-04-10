@@ -1,0 +1,7 @@
+# MacOS temp files
+.DS_Store
+._*
+
+# virtual env
+venv/
+.vscode/
